@@ -34,8 +34,8 @@ Se desideri utilizzarlo offline sul tuo computer:
 
 1. Clona il repository:
    ```bash
-   git clone [https://github.com/MarcoCuzzi/pdf-mix.git](https://github.com/MarcoCuzzi/pdf-mix.git)
-
+git clone https://github.com/MarcoCuzzi/pdf-mix.git
+```
 
 
 ## ⚖️ Licenza e Proprietà Intellettuale
