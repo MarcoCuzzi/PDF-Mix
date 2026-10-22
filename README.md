@@ -6,7 +6,7 @@ Work with PDF merge and edit. With special function for bigger files!
 > Unisci, riordina, ruota e ritocca i tuoi file PDF direttamente nel browser. Senza caricare nulla su server esterni.
 
 🔗 **Usa l'app online:** 
-
+[https://pdf-mix.pages.dev/](https://pdf-mix.pages.dev/)
 ---
 
 ## ⚡ Caratteristiche
