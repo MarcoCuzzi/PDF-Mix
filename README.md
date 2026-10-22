@@ -35,3 +35,14 @@ Se desideri utilizzarlo offline sul tuo computer:
 1. Clona il repository:
    ```bash
    git clone [https://github.com/MarcoCuzzi/pdf-mix.git](https://github.com/MarcoCuzzi/pdf-mix.git)
+
+
+
+## ⚖️ Licenza e Proprietà Intellettuale
+Copyright © 2026 Marco Cuzzi (Github: @MarcoCuzzi). Tutti i diritti riservati.
+
+Questo repository è reso pubblico a solo scopo dimostrativo, di studio personale e portfolio.
+
+Non è consentito copiare, ridistribuire, modificare, concedere in sublicenza o ospitare questa applicazione su altri domini web o per scopi commerciali senza preventiva autorizzazione scritta dell'autore.
+
+Le librerie e i font di terze parti inclusi (pdf-lib, pako, tslib, font Caveat e Space Mono) rimangono di proprietà dei rispettivi autori e sono soggetti alle rispettive licenze open source permissive indicate nel file LICENSE.md.
